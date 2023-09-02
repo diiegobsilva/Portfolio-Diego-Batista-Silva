@@ -2,16 +2,10 @@
 
 <h1>Diego Batista da Silva</h1>
 
-<h2>Introdução</h2>
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: right;">
-    <p>Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios.</p>
-  </div>
-  <div style="flex: 1; text-align: left;">
-    <img src="/foto.png" width="150px" height="150px">
-  </div>
-</div>
-
+## Introdução
+|                                               |                                           |
+| -------------------------------------------------- | ----------------------------------------------- |
+| Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios. | ![Imagem](/foto.png) |
 </br>
 <h2>Principais Tecnologias</h2>
 
@@ -52,25 +46,15 @@
   
 ## Tecnologias Utilizadas  
 
-<div>
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  <p>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</p>
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
-  <p> HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web.</p>
+| Tecnologia                                               | Descrição                                     |
+| -------------------------------------------------------- | --------------------------------------------- |
+| ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) Figma | Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows. |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5 | HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3 | CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Enquanto o HTML lida com a estrutura e o conteúdo de uma página da web, o CSS trata da aparência visual, como cores, fontes, posicionamento e animações, foi utilizado para a estilização do site. |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | Python é uma linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Criada por Guido van Rossum, ela é conhecida por sua sintaxe clara e coerente, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes, foi utilizado para a criação da automação e da clonagem de cada link. |
+| ![Flask](https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png) Flask | Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível. |
+| ![Azure](https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png) Azure | Azure é uma plataforma de computação em nuvem executada pela Microsoft, que oferece acesso, gerenciamento e desenvolvimento de aplicativos e serviços por meio de data centers globais. |
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
-  <p>CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Enquanto o HTML lida com a estrutura e o conteúdo de uma página da web, o CSS trata da aparência visual, como cores, fontes, posicionamento e animações, foi utilizado para a estilização do site.</p>
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON 
-  <p>python é uma linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Criada por Guido van Rossum, ela é conhecida por sua sintaxe clara e coerente, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes, foi utilizado para a criação da automação e da clonagem de cada link.</p>
-  
-  <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
-  <p>Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.</p>
-  
-  <img width="50 rem" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"/> AZURE
-  <p> Azure é uma plataforma de computação em nuvem executada pela Microsoft, que oferece acesso, gerenciamento e desenvolvimento de aplicativos e serviços por meio de data centers globais</p>
-</div>
 
 </br>
 <H1>Contribuições pessoais</H1>
