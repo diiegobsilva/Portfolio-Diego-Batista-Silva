@@ -42,7 +42,7 @@
 </div>
 
 ### Link do Github
-
+[![Texto Alternativo](equipe1.png)](https://github.com/Api2sem2021/Equipe-1)
   
 ## Tecnologias Utilizadas  
 
