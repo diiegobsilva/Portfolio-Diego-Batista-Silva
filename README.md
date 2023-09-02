@@ -42,7 +42,8 @@
 </div>
 
 ### Link do Github
-[![Texto Alternativo](equipe1.png)](https://github.com/Api2sem2021/Equipe-1)
+[![Equipe 1]](https://github.com/Api2sem2021/Equipe-1)
+<img src="/equipe1.png" width="50" height="50">
   
 ## Tecnologias Utilizadas  
 
