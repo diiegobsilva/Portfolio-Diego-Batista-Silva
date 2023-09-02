@@ -4,14 +4,13 @@
 
 <h2>Introdução</h2>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+  <div style="flex: 1;">
     <p>Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios.</p>
   </div>
-  <div>
-    <img src="/foto.png" style="width: 150px; height: 150px;">
+  <div style="flex: 1;">
+    <img src="/foto.png" style="width: 150px; height: 150px; float: right;">
   </div>
 </div>
-
 
 
 </br>
