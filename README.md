@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/diegobatista1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </br></br>
 <h1>Projetos API (Aprendizagem por Projetos Integrados) </h1>
-</br></br></br>
+</br></br>
 
 <div align="center">
   <H1>Equipe Amadeus 2021-2</H1>   <H2>Visão do Projeto</H2>
