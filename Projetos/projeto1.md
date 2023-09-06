@@ -3,11 +3,29 @@
 </div>
 <p> Projeto tem como finalidade eliminar possíveis perdas de projetos acadêmicos da Fatec de São José dos Campos. A instituição adotou o Aprendizado por Projetos Integrados, que é obrigatório em todos os cursos e turmas, levando várias equipes a salvar esses projetos em suas contas pessoais do GitHub. Diante dessa situação, nossa proposta é clonar e fazer upload desses projetos em uma conta oficial da FatecSJC, além de desenvolver um site utilizando HTML e CSS para também hospedar os projetos. Essa abordagem garantirá a preservação dos trabalhos, facilitando o acesso e a visualização por parte de todos os envolvidos.</p>
 
+* Requistos funcionais
+   ---
+   - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
+   - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
+   - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
+   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
+   - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
+   - [X] Site para a exposição dos projetos.
+
+
+* Requisitos não funcionais
+  ---
+  - [X] Manual de instalação.
+  - [X] Organização do github.
+ 
+  
+<br/>
 ### Página Home
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
 </div>
+
 
 ### Página Home das Salas 
 
