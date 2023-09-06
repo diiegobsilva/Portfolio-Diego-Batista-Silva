@@ -34,7 +34,7 @@
 </div>
 
 ### Link do Github                                                
-| <img src="/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
 |:---:|:---:|
 
 ## Tecnologias Utilizadas  
