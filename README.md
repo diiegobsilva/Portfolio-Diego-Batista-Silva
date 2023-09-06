@@ -9,19 +9,19 @@
 </br>
 <h2>Principais Tecnologias</h2>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" alt="Imagem 1" style="width: 50px; height: 50px;">
-    <img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="Imagem 2" style="width: 50px; height: 50px;">
-    <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="Imagem 3" style="width: 50px; height: 50px;">
-</div>
+|[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
 
 </br>
+
+
 <h2>Contato</h2>
    <a href="https://instagram.com/_diego.bsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegosilva157890@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diegobatista1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </br></br>
 <h1>Projetos API (Aprendizagem por Projetos Integrados) </h1>
+<p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do segundo semestre de 2021, eles já começaram a colocar essa ideia em prática e até se ofereceram como parceiros para projetos nesse sentido.</p>
 </br></br>
 
 ## Projetos
