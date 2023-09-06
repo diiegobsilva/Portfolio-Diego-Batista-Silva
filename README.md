@@ -22,7 +22,7 @@
 <h1>Projetos API (Aprendizagem por Projetos Integrados) </h1>
 <p>A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
 Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégia de ensino diferente chamada Aprendizado por Projeto Integrador (API). E agora, a partir do segundo semestre de 2021, eles já começaram a colocar essa ideia em prática e até se ofereceram como parceiros para projetos nesse sentido.</p>
-</br></br>
+</br>
 
 ## Projetos
 | Semestre | 
