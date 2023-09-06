@@ -8,15 +8,14 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
 </div>
+
 ### Página Home das Salas 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
 </div>
 
-### Link do Github
-
-                                                     
+### Link do Github                                                
 | <img src="/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
 |:---:|:---:|
 
