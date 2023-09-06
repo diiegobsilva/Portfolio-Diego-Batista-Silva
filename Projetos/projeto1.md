@@ -17,9 +17,27 @@
   ---
   - [X] Manual de instalação.
   - [X] Organização do github.
- 
-  
+
 <br/>
+
+## Backlog do produto
+
+Tarefa | Prioridade
+:--- | :--- |
+Criar página de turmas/semestres | Alta Prioridade
+Criar página home | Alta Prioridade
+Clonagem dos repositórios | Alta Prioridade
+Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções | Prioridade Média
+Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
+Layout do Github | Prioridade Baixa
+Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
+Protótipo linkado ao site da FATEC | Prioridade Média
+Protótipo de raspagem de links automático | Prioridade Média
+Redirecionamento para os links no site protótipo | Prioridade Média
+
+
+<br/>
+<h1>Resultado Final </h1>
 
 ### Página Home
 
