@@ -5,7 +5,7 @@
 ## Introdução
 |                                               |                                           |
 | -------------------------------------------------- | ----------------------------------------------- |
-| Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios. | ![Imagem](/foto.png) |
+| Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios. | ![Imagem](./img/foto.png) |
 </br>
 <h2>Principais Tecnologias</h2>
 
@@ -24,6 +24,14 @@
 <h1>Projetos API (Aprendizagem por Projetos Integrados) </h1>
 </br></br>
 
+## Projetos
+| Semestre | 
+|----------|
+| [1º Semestre](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto1.md) |
+| 2º Semestre |
+| 3º Semestre |
+| 4º Semestre |
+| 5º Semestre |
 
 
 
