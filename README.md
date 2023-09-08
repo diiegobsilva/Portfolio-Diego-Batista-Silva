@@ -9,7 +9,7 @@
 </br>
 <h2>Principais Tecnologias</h2>
 
-|[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 </br>
 
