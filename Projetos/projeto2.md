@@ -1,71 +1,77 @@
 <div align="center">
   <H1>Equipe Amadeus 2021-2</H1>   <H2>Visão do Projeto</H2>
 </div>
-<p> Projeto tem como finalidade eliminar possíveis perdas de projetos acadêmicos da Fatec de São José dos Campos. A instituição adotou o Aprendizado por Projetos Integrados, que é obrigatório em todos os cursos e turmas, levando várias equipes a salvar esses projetos em suas contas pessoais do GitHub. Diante dessa situação, nossa proposta é clonar e fazer upload desses projetos em uma conta oficial da FatecSJC, além de desenvolver um site utilizando HTML e CSS para também hospedar os projetos. Essa abordagem garantirá a preservação dos trabalhos, facilitando o acesso e a visualização por parte de todos os envolvidos.</p>
+<p> Projeto tem como finalidade organizar a comunicação da empresa com os clientes, desenvolvendo um sistema que possibilita o cadastro de mensagens enviadas para a empresa Pro4Tech por outros meios, como SMS, Whatsapp, Email e outros. O ideal é que essas mensagens possam ser acessadas pela própria aplicação, onde o cliente, adm e suporte também possa enviar mensagens para algum usuário individualmente ou para vários usuários por meio de um projeto específico.</p>
 
 * Requistos funcionais
    ---
-   - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
-   - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
-   - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
-   - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
-   - [X] Site para a exposição dos projetos.
-
+   - [X] Cadastro de Usuários, Clientes e Grupos.
+   - [X] Usuários devem ter perfis diferentes (administrador, suporte, cliente).
+   - [X] Envio de mensagens individuais para um usuário do sistema.
+   - [X] Envio de mensagens coletivas para os grupos do sistema.
+   - [X] Relatório de pessoas ou grupos a quem mais enviei mensagens.
 
 * Requisitos não funcionais
   ---
-  - [X] Manual de instalação.
-  - [X] Organização do github.
+  - [X] Linguagem Java Desktop.
+  - [X] SGBD MySQL.
+  - [X] Documentações.
 
 <br/>
 
 ## Backlog do produto
 
 Tarefa | Prioridade
-:--- | :--- |
-Criar página de turmas/semestres | Alta Prioridade
-Criar página home | Alta Prioridade
-Clonagem dos repositórios | Alta Prioridade
-Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções | Prioridade Média
-Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
-Layout do Github | Prioridade Baixa
-Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
-Protótipo linkado ao site da FATEC | Prioridade Média
-Protótipo de raspagem de links automático | Prioridade Média
-Redirecionamento para os links no site protótipo | Prioridade Média
+:--- | :--- | 
+Criação do banco de dados | Alta prioridade
+Criação de interface de cadastro de mensagens | Alta prioridade
+Criação de interface para exibição das mensagens cadastradas | Alta prioridade
+Conexão do banco de dados com a interface | Alta prioridade
+Criação de interface de cadastro de usuários | Média prioridade
+Criação da interface usuário adm | Média prioridade
+Criação da interface inicial | Média prioridade
+Criação de sistema de Chat  | Alta prioridade 
+Validação para os campos | Alta prioridade 
+CRUD | Alta prioridade 
+Banco de dados Azure | Média prioridade 
 
 <br/>
 
 <H1>Resultado Final </H1>
 
-### Página Home
+# Sprint 1
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
-</div>
+## Interfaces
+<p> Foram criadas interfaces com o objetivo de registrar e visualizar mensagens escritas por clientes. Sendo pedidos de ajuda, relatos de erros na plataforma ou perguntas no geral; Centralizando suas dúvidas em uma única plataforma, facilitando a interação entre fornecedor e cliente. </p>
+<img width= "600"  src="https://github.com/equipe-amadeus/API-SegundoSem/blob/main/gif/interfaces.gif">
 
+## Conexão do banco de dados com a interface
+<img width= "600" src="https://github.com/equipe-amadeus/API-SegundoSem/blob/main/gif/conexaobdinterface.gif">
 
-### Página Home das Salas 
+## Sprint 2
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
-</div>
+<img width= "600" src="https://github.com/equipe-amadeus/API-SegundoSem/blob/main/gif/sprint2.gif">
+
+## Sprint 3
+
+<img width="600" src="https://github.com/equipe-amadeus/API-SegundoSem/blob/main/gif/vidapresentacao3.gif">
+
 
 ### Link do Github                                                
-| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/equipe-amadeus/API-SegundoSem) |
 |:---:|:---:|
 
-## Tecnologias Utilizadas  
+## 🛠️ Tecnologias Utilizadas 
 
-| Tecnologia                                               | Descrição                                     |
-| -------------------------------------------------------- | --------------------------------------------- |
-| ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) Figma | Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows. |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5 | HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. |
-| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3 | CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Enquanto o HTML lida com a estrutura e o conteúdo de uma página da web, o CSS trata da aparência visual, como cores, fontes, posicionamento e animações, foi utilizado para a estilização do site. |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | Python é uma linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Criada por Guido van Rossum, ela é conhecida por sua sintaxe clara e coerente, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes, foi utilizado para a criação da automação e da clonagem de cada link. |
-| ![Flask](https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png) Flask | Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível. |
-| ![Azure](https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png) Azure | Azure é uma plataforma de computação em nuvem executada pela Microsoft, que oferece acesso, gerenciamento e desenvolvimento de aplicativos e serviços por meio de data centers globais. |
+- BrModelo : Modelagem de Dados
+- Figma : Prototipagem
+- Java : Linguagem de programação
+- JavaFx : Framework
+- JavaSwing : Framework
+- Microsoft Azure : Hospedagem na nuvem
+- MySQL : Banco de Dados
+- Scene Builder : Ferramenta para edição do layout
+- IText criação de relatórios
 
 
 </br>
