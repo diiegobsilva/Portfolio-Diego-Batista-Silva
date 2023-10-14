@@ -77,15 +77,14 @@ Banco de dados Azure | Média prioridade
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, fui encarregado da criação dos protótipos, do desenvolvimento do front-end das páginas de home e cursos, bem como da integração dos links clonados nas páginas de cursos. Isso incluiu a tarefa de assegurar que os links corretos fossem associados a cada curso e à equipe correspondente, garantindo assim uma navegação eficaz e uma experiência de usuário aprimorada.</p>
+<p>No processo de construção do projeto, fui encarregado Criação do Banco de Dados, Conexão do Banco de Dados com a Interface, CRUD, Criação do Banco de Dados na Azure e Criação da Interface de Cadastro de Mensagens</p>
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Criação de Protótipos:</strong> Habilidades em usar ferramentas de design ou prototipagem para visualizar e planejar interfaces de usuário.</li>
-  <li><strong>Desenvolvimento Front-end:</strong> Habilidades de codificação em tecnologias front-end, como HTML, CSS.</li>
-  <li><strong>Integração de Links:</strong> Tarefa de integrar links clonados nas páginas de cursos mostra que você tem habilidades de integração e pode trabalhar com HTML.</li>
-  <li><strong>Gestão de Links e Navegação:</strong> Garantir que os links corretos fossem associados a cada curso e à equipe correspondente indica habilidades de gestão de conteúdo, organização e atenção aos detalhes para manter a navegação eficaz.</li>
-  <li><strong>Melhoria da Experiência do Usuário:</strong> Melhorar a usabilidade do sistema.</li>
+  <li><strong>Desenvolvimento de Banco de Dados</strong>Nível de Proficiência:  Autônomo </li>
+  <li><strong>Integração de Tecnologias Microsoft Azure</strong>Nível de Proficiência:  Autônomo </li>
+  <li><strong>Desenvolvimento Front-end</strong>Nível de Proficiência:  Autônomo </li>
+  <li><strong>Conexão do Banco de Dados com a Interface</strong>Nível de Proficiência:  Autônomo </li>
 </ul>
 
 <h3>Soft Skills</h3>
@@ -94,12 +93,12 @@ Banco de dados Azure | Média prioridade
     <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Isso inclui ouvir ativamente e compreender os outros.
   </li>
   <li>
-    <strong>Trabalho em Equipe:</strong> Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns.
+    <strong>Trabalho em Equipe:</strong> Colaboração efetiva ao coordenar atividades relacionadas à criação do banco de dados e à integração com a interface.
   </li>
   <li>
-    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes.
+    <strong>Resolução de Problemas:</strong> Envolvimento na resolução de desafios técnicos, como a integração de links nas páginas de cursos.
   </li>
   <li>
-    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora.
+    <strong>Criatividade:</strong> Na Criação da Interface de Cadastro de Mensagens.
   </li>
 </ul>
