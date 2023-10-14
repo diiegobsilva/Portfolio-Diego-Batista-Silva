@@ -5,7 +5,7 @@
 ## Introdução
 |                                               |                                           |
 | -------------------------------------------------- | ----------------------------------------------- |
-| Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente, exerço a função de estagiário na empresa Jimi Iot como Analista e Suporte de TI. Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios. | ![Imagem](./img/foto.png) |
+| Estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente ocupo a posição de estagiário na empresa Jimi Iot, desempenhando as funções de Analista e Suporte de TI. Minha paixão pela tecnologia não apenas me motiva, mas também impulsiona minha busca incessante por novos desafios. | ![Imagem](./img/foto.png) |
 </br>
 <h2>Principais Tecnologias</h2>
 
@@ -25,13 +25,13 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 </br>
 
 ## Projetos
-| Semestre | 
-|----------|
-| [1º Semestre](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto1.md) |
-| 2º Semestre |
-| 3º Semestre |
-| 4º Semestre |
-| 5º Semestre |
+| Semestre | Descrição dos Projetos |
+|----------|------------------------|
+| [1º Semestre - 2021/2 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto1.md) | Projeto tem como finalidade eliminar possíveis perdas de projetos acadêmicos da Fatec de São José dos Campos. |
+| 2º Semestre | [Breve descrição dos projetos realizados no segundo semestre.] |
+| 3º Semestre | [Breve descrição dos projetos realizados no terceiro semestre.] |
+| 4º Semestre | [Breve descrição dos projetos realizados no quarto semestre.] |
+| 5º Semestre | [Breve descrição dos projetos realizados no quinto semestre.] |
 
 
 
