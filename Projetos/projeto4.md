@@ -24,38 +24,54 @@
 
 ## Backlog do produto
 
-Tarefa | Prioridade
-:--- | :--- |
-Criar página de turmas/semestres | Alta Prioridade
-Criar página home | Alta Prioridade
-Clonagem dos repositórios | Alta Prioridade
-Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções | Prioridade Média
-Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
-Layout do Github | Prioridade Baixa
-Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
-Protótipo linkado ao site da FATEC | Prioridade Média
-Protótipo de raspagem de links automático | Prioridade Média
-Redirecionamento para os links no site protótipo | Prioridade Média
+<p align="center"> <img src = "../img/backlog4.png"></p>
 
 <br/>
 
 <H1>Resultado Final </H1>
 
-### Página Home
+<h4> Entrega da Sprint 1 </h4>
+<p align="center"> 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
-</div>
+https://user-images.githubusercontent.com/86448876/229383850-07c43960-d344-4bc1-937e-2391f1a4f639.mp4
 
 
-### Página Home das Salas 
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
-</div>
+<h4> Entrega da Sprint 2 </h4>
+<p align="center"> 
+
+https://user-images.githubusercontent.com/86115352/233875755-5246a1ff-8b22-466d-9b65-061e43662dbd.mp4
+
+
+
+https://user-images.githubusercontent.com/86115352/233876936-91b7e7fe-1404-4cfc-a987-a5cbba259e0d.mp4
+
+
+
+https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-a84d-9995c23f0cf9.mp4
+
+</p>
+<h4> Entrega da Sprint 3 </h4>
+<p align="center"> 
+
+https://github.com/peonia-api/API_4_Semestre/assets/86448876/52bd5e2f-9586-40a0-b2df-8b6c3db24b9a
+ 
+</p>
+
+<h4> Entrega da Sprint 4 </h4>
+
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
+
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
+    
+<br>
+
+    
+<br>
 
 ### Link do Github                                                
-| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/peonia-api/API_4_Semestre) |
 |:---:|:---:|
 
 ## Tecnologias Utilizadas  
