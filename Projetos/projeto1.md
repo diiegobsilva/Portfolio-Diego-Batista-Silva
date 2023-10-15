@@ -74,11 +74,10 @@ Redirecionamento para os links no site protótipo | Prioridade Média
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Criação de Protótipos:</strong> Habilidades em usar ferramentas de design ou prototipagem para visualizar e planejar interfaces de usuário.</li>
-  <li><strong>Desenvolvimento Front-end:</strong> Habilidades de codificação em tecnologias front-end, como HTML, CSS.</li>
-  <li><strong>Integração de Links:</strong> Tarefa de integrar links clonados nas páginas de cursos mostra que você tem habilidades de integração e pode trabalhar com HTML.</li>
-  <li><strong>Gestão de Links e Navegação:</strong> Garantir que os links corretos fossem associados a cada curso e à equipe correspondente indica habilidades de gestão de conteúdo, organização e atenção aos detalhes para manter a navegação eficaz.</li>
-  <li><strong>Melhoria da Experiência do Usuário:</strong> Melhorar a usabilidade do sistema.</li>
+  <li><strong>Criação de Protótipos</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Desenvolvimento Front-end</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Integração de Links</strong> Nível de Proficiência: Competente</li>
+  <li><strong>Gestão de Links e Navegação</strong> Nível de Proficiência: Competente</li>
 </ul>
 
 <h3>Soft Skills</h3>
