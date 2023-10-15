@@ -76,28 +76,33 @@ https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-
 
 ## Tecnologias Utilizadas  
 
-| Tecnologia                                               | Descrição                                     |
-| -------------------------------------------------------- | --------------------------------------------- |
-| ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) Figma | Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows. |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5 | HTML (HyperText Markup Language) é uma linguagem de marcação usada para estruturar e exibir conteúdo em páginas da web. |
-| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3 | CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Enquanto o HTML lida com a estrutura e o conteúdo de uma página da web, o CSS trata da aparência visual, como cores, fontes, posicionamento e animações, foi utilizado para a estilização do site. |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | Python é uma linguagem de programação de alto nível, amplamente utilizada por sua simplicidade e legibilidade. Criada por Guido van Rossum, ela é conhecida por sua sintaxe clara e coerente, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes, foi utilizado para a criação da automação e da clonagem de cada link. |
-| ![Flask](https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png) Flask | Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível. |
-| ![Azure](https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png) Azure | Azure é uma plataforma de computação em nuvem executada pela Microsoft, que oferece acesso, gerenciamento e desenvolvimento de aplicativos e serviços por meio de data centers globais. |
-
+- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
+- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
+- [Git](https://git-scm.com): Versionamento
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação
+- [Figma](https://www.figma.com): Prototipagem
+- [NodeJS](https://nodejs.org/): Runtime
+- [ReactJS](https://pt-br.reactjs.org/): Framework
+- [TypeORM](https://typeorm.io/): Framework
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento
+- [PostgreSQL](https://www.postgresql.org/): Banco de dados
+- [EmailJS](https://www.emailjs.com/): Observer e redefinição de senha
+- [Nodemailer](https://www.npmjs.com/package/nodemailer): Observer e redefinição de senha
+- [Google Cloud Platform](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-p-dr-1605194-LUAC0014411&utm_content=text-ad-none-any-DEV_c-CRE_512285710746-ADGP_Hybrid%20%7C%20BKWS%20-%20PHR%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251476-kwd-295915745166&utm_term=KW_gcp-ST_GCP&gclid=EAIaIQobChMI9bqWjJOq_wIVtyKtBh04WQpvEAAYASAAEgLSfvD_BwE&gclsrc=aw.ds&hl=pt-br): Deployment
 
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, fui encarregado da criação dos protótipos, do desenvolvimento do front-end das páginas de home e cursos, bem como da integração dos links clonados nas páginas de cursos. Isso incluiu a tarefa de assegurar que os links corretos fossem associados a cada curso e à equipe correspondente, garantindo assim uma navegação eficaz e uma experiência de usuário aprimorada.</p>
+<p>No processo de construção do projeto, minha atribuição abrangeu a criação do Histórico dos Chamados, a implementação do CRUD para usuários, a gestão do Comitê de Aprovação, integração entre o front-end e back-end, além da resolução de bugs.</p>
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Criação de Protótipos:</strong> Habilidades em usar ferramentas de design ou prototipagem para visualizar e planejar interfaces de usuário.</li>
-  <li><strong>Desenvolvimento Front-end:</strong> Habilidades de codificação em tecnologias front-end, como HTML, CSS.</li>
-  <li><strong>Integração de Links:</strong> Tarefa de integrar links clonados nas páginas de cursos mostra que você tem habilidades de integração e pode trabalhar com HTML.</li>
-  <li><strong>Gestão de Links e Navegação:</strong> Garantir que os links corretos fossem associados a cada curso e à equipe correspondente indica habilidades de gestão de conteúdo, organização e atenção aos detalhes para manter a navegação eficaz.</li>
-  <li><strong>Melhoria da Experiência do Usuário:</strong> Melhorar a usabilidade do sistema.</li>
+  <li><strong>Criação do Histórico dos Chamados</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Implementação do CRUD para Usuários</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Gestão do Comitê de Aprovação</strong> Nível de Proficiência: Autônomo com pouca ajuda</li>
+  <li><strong>Integração entre o Front-end e Back-end</strong> Nível de Proficiência: Com ajuda</li>
+  <li><strong>Resolução de Bugs</strong> Nível de Proficiência: Com ajuda</li>
 </ul>
 
 <h3>Soft Skills</h3>
