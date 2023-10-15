@@ -1,56 +1,40 @@
 <div align="center">
-  <H1>Equipe Amadeus 2021-2</H1>   <H2>Visão do Projeto</H2>
+  <h1> EQUIPE APOLO - APRENDIZAGEM POR PROJETOS INTEGRADOS 3º SEMESTRE ADS - 2022 </h1>   <H2>Visão do Projeto</H2>
 </div>
-<p> Projeto tem como finalidade eliminar possíveis perdas de projetos acadêmicos da Fatec de São José dos Campos. A instituição adotou o Aprendizado por Projetos Integrados, que é obrigatório em todos os cursos e turmas, levando várias equipes a salvar esses projetos em suas contas pessoais do GitHub. Diante dessa situação, nossa proposta é clonar e fazer upload desses projetos em uma conta oficial da FatecSJC, além de desenvolver um site utilizando HTML e CSS para também hospedar os projetos. Essa abordagem garantirá a preservação dos trabalhos, facilitando o acesso e a visualização por parte de todos os envolvidos.</p>
+<p>  O projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para tal cálculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.</p>
 
 * Requistos funcionais
    ---
-   - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
-   - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
-   - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
-   - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
-   - [X] Site para a exposição dos projetos.
+- [x] Cadastros de modelos de aeronaves;
+- [x] Perfis diferentes (administrador, usuário);
+- [x] Interface amigável para cálculo de perfomace via celular ou tablet;
+- [x] Gerar cálculo do comprimento mínimo da pista de pouso pelos fatores considerados;
+- [x] Gerar histórico dos cálculos realizados;
 
 
 * Requisitos não funcionais
   ---
-  - [X] Manual de instalação.
-  - [X] Organização do github.
+- [x] Linguagem Typescript;
+- [x] Documentações;
 
 <br/>
 
 ## Backlog do produto
 
-Tarefa | Prioridade
-:--- | :--- |
-Criar página de turmas/semestres | Alta Prioridade
-Criar página home | Alta Prioridade
-Clonagem dos repositórios | Alta Prioridade
-Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções | Prioridade Média
-Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
-Layout do Github | Prioridade Baixa
-Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
-Protótipo linkado ao site da FATEC | Prioridade Média
-Protótipo de raspagem de links automático | Prioridade Média
-Redirecionamento para os links no site protótipo | Prioridade Média
+<p align="center"> <img src = "img/backlog.png"></p>
 
 <br/>
 
 <H1>Resultado Final </H1>
 
-### Página Home
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
-</div>
-
-
-### Página Home das Salas 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
-</div>
+<h4> Entrega da Sprint 1 </h4>
+<p align="center"> <img width="100%" src = "img/video-primeiraentrega.gif"></p>
+<h4> Entrega da Sprint 2 </h4>
+<p align="center"> <img width="100%" src = "img/video - sprint2.gif"></p>
+<h4> Entrega da Sprint 3 </h4>
+<p align="center"> <img width="100%" src = "img/features3sprint.gif"></p>
+<h4> Entrega da Sprint 4 </h4>
+<p align="center"> <img width="100%" src = "img/sprint_4.gif"></p>
 
 ### Link do Github                                                
 | <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
