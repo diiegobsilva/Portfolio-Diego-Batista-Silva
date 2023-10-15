@@ -19,31 +19,38 @@
 
 <br/>
 
-## Backlog do produto
+## Backlog do Produto
 
-<p align="center"> <img src = "img/backlog.png"></p>
+<p align="center"> <img src = "../img/backlog.png"></p>
 
 <br/>
 
 <H1>Resultado Final </H1>
 
 <h4> Entrega da Sprint 1 </h4>
-<p align="center"> <img width="100%" src = "img/video-primeiraentrega.gif"></p>
+<p align="center"> <img width="100%" src = "../img/video-primeiraentrega.gif"></p>
 <h4> Entrega da Sprint 2 </h4>
-<p align="center"> <img width="100%" src = "img/video - sprint2.gif"></p>
+<p align="center"> <img width="100%" src = "../img/video - sprint2.gif"></p>
 <h4> Entrega da Sprint 3 </h4>
-<p align="center"> <img width="100%" src = "img/features3sprint.gif"></p>
+<p align="center"> <img width="100%" src = "../img/features3sprint.gif"></p>
 <h4> Entrega da Sprint 4 </h4>
-<p align="center"> <img width="100%" src = "img/sprint_4.gif"></p>
+<p align="center"> <img width="100%" src = "../img/sprint_4.gif"></p>
 
 ### Link do Github                                                
-| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/EquipeApolo/API_3_Semestre) |
 |:---:|:---:|
 
 
 ## Tecnologias Utilizadas  
 
-
+- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
+- [Typescript](https://www.typescriptlang.org/): Linguagem de programação
+- [Git](https://git-scm.com): Versionamento
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação
+- [Whimsical](https://whimsical.com): Prototipagem
+- [Node](https://nodejs.org/): Runtime
+- [React](https://pt-br.reactjs.org/): Framework
 
 </br>
 
