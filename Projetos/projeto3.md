@@ -59,9 +59,9 @@
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>CRUD de Usuário completo:</strong> Competente</li>
-  <li><strong>Pagina de visualização, cadastro e edição de usuario:</strong> Competente</li>
-  <li><strong>CRUD de aeronave:</strong> Autônomo com pouca ajuda</li>
+  <li><strong>CRUD de Usuário completo:</strong>Nível de Proficiência:  Competente</li>
+  <li><strong>Pagina de visualização, cadastro e edição de usuario:</strong>Nível de Proficiência:  Competente</li>
+  <li><strong>CRUD de aeronave:</strong>Nível de Proficiência:  Autônomo com pouca ajuda</li>
 </ul>
 
 <h3>Soft Skills</h3>
