@@ -55,15 +55,13 @@
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, fui encarregado da criação dos protótipos, do desenvolvimento do front-end das páginas de home e cursos, bem como da integração dos links clonados nas páginas de cursos. Isso incluiu a tarefa de assegurar que os links corretos fossem associados a cada curso e à equipe correspondente, garantindo assim uma navegação eficaz e uma experiência de usuário aprimorada.</p>
+<p>Durante o desenvolvimento do projeto, minha responsabilidade central foi a criação e integração das páginas de visualização, cadastro e edição de usuários, assim como a implementação do CRUD para a entidade aeronave </p>
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Criação de Protótipos:</strong> Habilidades em usar ferramentas de design ou prototipagem para visualizar e planejar interfaces de usuário.</li>
-  <li><strong>Desenvolvimento Front-end:</strong> Habilidades de codificação em tecnologias front-end, como HTML, CSS.</li>
-  <li><strong>Integração de Links:</strong> Tarefa de integrar links clonados nas páginas de cursos mostra que você tem habilidades de integração e pode trabalhar com HTML.</li>
-  <li><strong>Gestão de Links e Navegação:</strong> Garantir que os links corretos fossem associados a cada curso e à equipe correspondente indica habilidades de gestão de conteúdo, organização e atenção aos detalhes para manter a navegação eficaz.</li>
-  <li><strong>Melhoria da Experiência do Usuário:</strong> Melhorar a usabilidade do sistema.</li>
+  <li><strong>CRUD de Usuário completo:</strong> Competente</li>
+  <li><strong>Pagina de visualização, cadastro e edição de usuario:</strong> Competente</li>
+  <li><strong>CRUD de aeronave:</strong> Autônomo com pouca ajuda</li>
 </ul>
 
 <h3>Soft Skills</h3>
