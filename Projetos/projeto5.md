@@ -86,7 +86,7 @@ https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-
 
 
 ### Link do Github                                                
-| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/peonia-api/API_4_Semestre) |
 |:---:|:---:|
 
 ## Tecnologias Utilizadas  
@@ -113,28 +113,16 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, fui encarregado da criação dos protótipos, do desenvolvimento do front-end das páginas de home e cursos, bem como da integração dos links clonados nas páginas de cursos. Isso incluiu a tarefa de assegurar que os links corretos fossem associados a cada curso e à equipe correspondente, garantindo assim uma navegação eficaz e uma experiência de usuário aprimorada.</p>
+<p>No processo de construção do projeto, minha atribuição abrangeu a criação do Histórico dos Chamados, a implementação do CRUD para usuários, a gestão do Comitê de Aprovação, integração entre o front-end e back-end, além da resolução de bugs.</p>
 
 <h3>Hard Skills</h3>
-<ul>
-  <li><strong>Criação de Protótipos</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Desenvolvimento Front-end</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Integração de Links</strong> Nível de Proficiência: Competente</li>
-  <li><strong>Gestão de Links e Navegação</strong> Nível de Proficiência: Competente</li>
-</ul>
+
+ <li><strong>Criação do Histórico dos Chamados</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Implementação do CRUD para Usuários</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Gestão do Comitê de Aprovação</strong> Nível de Proficiência: Autônomo com pouca ajuda</li>
+  <li><strong>Integração entre o Front-end e Back-end</strong> Nível de Proficiência: Com ajuda</li>
+  <li><strong>Resolução de Bugs</strong> Nível de Proficiência: Com ajuda</li>
 
 <h3>Soft Skills</h3>
-<ul>
-  <li>
-    <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Isso inclui ouvir ativamente e compreender os outros.
-  </li>
-  <li>
-    <strong>Trabalho em Equipe:</strong> Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns.
-  </li>
-  <li>
-    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes.
-  </li>
-  <li>
-    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora.
-  </li>
-</ul>
+
+
