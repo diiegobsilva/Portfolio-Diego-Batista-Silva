@@ -125,17 +125,19 @@
 
 
 <h3>Soft Skills</h3>
+
+<h3>Soft Skills</h3>
 <ul>
   <li>
-    <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Isso inclui ouvir ativamente e compreender os outros.
+    <strong>Comunicação:</strong> Demonstrei habilidade de comunicação ao esclarecer requisitos e funcionalidades do projeto de maneira clara, facilitando a compreensão da equipe e garantindo a execução eficiente das tarefas. Durante a integração de novos membros, exercitei minha comunicação para garantir uma transição suave e eficaz na equipe.
   </li>
   <li>
-    <strong>Trabalho em Equipe:</strong> Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns.
+    <strong>Trabalho em Equipe:</strong> Colaborei ativamente com colegas, compartilhando conhecimento e responsabilidades. Fui peça-chave na resolução de desafios, promovendo um ambiente colaborativo que impulsionou o progresso do projeto.
   </li>
   <li>
-    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes.
+    <strong>Empatia:</strong> Demonstrei empatia ao considerar as perspectivas e necessidades dos membros da equipe. Ao lidar com divergências de opinião, busquei compreender e integrar diferentes pontos de vista para alcançar soluções consensuais.
   </li>
   <li>
-    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora.
+    <strong>Criatividade:</strong>  Demonstrei habilidades criativas ao enfrentar desafios específicos do Front-end, propondo soluções inovadoras que não apenas resolveram problemas técnicos, mas também aprimoraram significativamente a experiência do usuário nas telas desenvolvidas. Ao assumir a responsabilidade pelo Front-end, busquei constantemente maneiras criativas de otimizar a interface, garantindo uma navegação intuitiva e visualmente atraente para os usuários.
   </li>
 </ul>
