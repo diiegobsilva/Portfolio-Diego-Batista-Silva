@@ -24,18 +24,14 @@
 
 ## Backlog do produto
 
-Tarefa | Prioridade
-:--- | :--- |
-Criar página de turmas/semestres | Alta Prioridade
-Criar página home | Alta Prioridade
-Clonagem dos repositórios | Alta Prioridade
-Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções | Prioridade Média
-Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
-Layout do Github | Prioridade Baixa
-Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
-Protótipo linkado ao site da FATEC | Prioridade Média
-Protótipo de raspagem de links automático | Prioridade Média
-Redirecionamento para os links no site protótipo | Prioridade Média
+<p> 
+   
+![image](https://github.com/peonia-api/API_4_Semestre/assets/86448876/b494d41d-2a8f-4622-821b-ee0fb6dc02f2)
+    
+</p>
+
+
+
 
 <br/>
 
@@ -43,28 +39,73 @@ Redirecionamento para os links no site protótipo | Prioridade Média
 
 ### Página Home
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
-</div>
+<h2> 💻 Entregas</h2> 
+
+<h4> Entrega da Sprint 1 </h4>
+<p align="center"> 
+
+https://user-images.githubusercontent.com/86448876/229383850-07c43960-d344-4bc1-937e-2391f1a4f639.mp4
 
 
-### Página Home das Salas 
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
-</div>
+<h4> Entrega da Sprint 2 </h4>
+<p align="center"> 
+
+https://user-images.githubusercontent.com/86115352/233875755-5246a1ff-8b22-466d-9b65-061e43662dbd.mp4
+
+
+
+https://user-images.githubusercontent.com/86115352/233876936-91b7e7fe-1404-4cfc-a987-a5cbba259e0d.mp4
+
+
+
+https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-a84d-9995c23f0cf9.mp4
+
+</p>
+<h4> Entrega da Sprint 3 </h4>
+<p align="center"> 
+
+https://github.com/peonia-api/API_4_Semestre/assets/86448876/52bd5e2f-9586-40a0-b2df-8b6c3db24b9a
+ 
+</p>
+
+<h4> Entrega da Sprint 4 </h4>
+
+Para visualizar o vídeo que ilustra o fluxo do usuário padrão, acesse este [link](https://clipchamp.com/watch/8KruCz3Wpls).
+    
+Para acessar o vídeo que demonstra o fluxo do usuário Diretor, acesse este [link](https://clipchamp.com/watch/tK9AXBtIvTg).
+
+
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
+
+
+https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
+    
+<br>
+
 
 ### Link do Github                                                
 | <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/Api2sem2021/Equipe-1) |
 |:---:|:---:|
 
 ## Tecnologias Utilizadas  
-- [Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg): Prototipagem
-- [HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg):  Linguagens de marcação e estilo para estruturar e exibir conteúdo em páginas web
-- [CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg): Linguagens de marcação e estilo para estruturar e exibir conteúdo em páginas web
-- [Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg): Linguagem de programação de alto nível, utilizada para automação e clonagem de links
-- [Flask](https://teams.microsoft.com): Framework web em Python, classificado como microframework
-- [Azure](https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png): Plataforma de computação em nuvem da Microsoft, para acesso, gerenciamento e desenvolvimento de aplicativos e serviços
+Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
+- [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
+- [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
+- [Git](https://git-scm.com): Versionamento
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação
+- [Figma](https://www.figma.com): Prototipagem
+- [NodeJS](https://nodejs.org/): Runtime
+- [ReactJS](https://pt-br.reactjs.org/): Framework
+- [TypeORM](https://typeorm.io/): Framework
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento
+- [PostgreSQL](https://www.postgresql.org/): Banco de dados
+- [EmailJS](https://www.emailjs.com/): Observer e redefinição de senha
+- [Nodemailer](https://www.npmjs.com/package/nodemailer): Observer e redefinição de senha
+- [Google Cloud Platform](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-p-dr-1605194-LUAC0014411&utm_content=text-ad-none-any-DEV_c-CRE_512285710746-ADGP_Hybrid%20%7C%20BKWS%20-%20PHR%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251476-kwd-295915745166&utm_term=KW_gcp-ST_GCP&gclid=EAIaIQobChMI9bqWjJOq_wIVtyKtBh04WQpvEAAYASAAEgLSfvD_BwE&gclsrc=aw.ds&hl=pt-br): Deployment
+
 
 
 
