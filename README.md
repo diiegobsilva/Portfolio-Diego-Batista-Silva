@@ -31,8 +31,7 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 | [2º Semestre - 2022/1 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto2.md) | Projeto tem como finalidade organizar a comunicação da empresa com os clientes, desenvolvendo um sistema que possibilita o cadastro de mensagens enviadas para a empresa Pro4Tech |
 | [3º Semestre - 2022/2 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto3.md) | Projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. |
 | [4º Semestre - 2023/1 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto4.md) | Projeto tem como finalidade desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. |
-| 5º Semestre | ... |
-
+| [5º Semestre - 2023/2 ](https://github.com/peonia-api/API_5_Semestre) | Projeto tem como finalidade desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. |
 
 
 
