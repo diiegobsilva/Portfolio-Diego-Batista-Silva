@@ -124,5 +124,18 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
   <li><strong>Resolução de Bugs</strong> Nível de Proficiência: Com ajuda</li>
 
 <h3>Soft Skills</h3>
-
+<ul>
+  <li>
+    <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Isso inclui ouvir ativamente e compreender os outros.
+  </li>
+  <li>
+    <strong>Trabalho em Equipe:</strong> Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns.
+  </li>
+  <li>
+    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes.
+  </li>
+  <li>
+    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora.
+  </li>
+</ul>
 
