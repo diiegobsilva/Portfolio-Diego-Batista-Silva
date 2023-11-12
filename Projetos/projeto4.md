@@ -1,25 +1,35 @@
 <div align="center">
-<h1 align="center"> EQUIPE PEÔNIA </br> APRENDIZAGEM POR PROJETOS INTEGRADOS 4º SEMESTRE ADS - 2023 </h1>  <H2>Visão do Projeto</H2>
+<h1 align="center"> EQUIPE PEÔNIA </br> APRENDIZAGEM POR PROJETOS INTEGRADOS 5º SEMESTRE ADS - 2023 </h1>  <H2>Visão do Projeto</H2>
 </div>
-<p> O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.</p>
+<p align="justify"> Como parte das atividades das áreas de engenharia de empresas de Saneamento, Elétrica, Telecomunicações e outros tipos de negócios em que as áreas demandam a realização de obras e manutenção de equipamentos em campo, se faz necessário utilizar uma aplicação móvel onde seja possível realizar a gestão dos dados relativos aos equipamentos (ativos) da companhia, via aplicativo móvel, possibilitando manter o cadastro dos ativos atualizados.</p>
+
+<p align="justify">Este recurso é amplamente utilizado em processos de manobras, onde um equipamento precisa ser desativado para que seja realizada uma manutenção. Durante esta etapa de manutenção parte da rede de serviços pode ser afetada, e por sua vez afetar os clientes conectados a ela, e ter o cadastro destes ativos atualizados em campo em tempo real é primordial para que a qualidade dos serviços prestados para os consumidores.</p>
+
+<p align="justify">Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).</p>
+
 
 * Requistos funcionais
    ---
-- [x] Cadastro de grupo de usuários;
-- [x] Permissão por grupo e por usuário;
-- [x] Distinção de usuários por times;
-- [x] Fila de chamados para cada time;
-- [x] Configuração e personalização de formulário de chamados;
-- [x] Árvore de Decisão para escalonamento de chamados;
-- [x] Cadastro de soluções para problemas conhecidos;
-- [x] Formulário de abertura de chamado com indicação de interessados;
-
+- [x] Cadastro de equipamentos (Ativos), incluindo foto;
+- [x] Ativação e desativação de equipamentos;
+- [x] Visualização geográfica dos equipamentos cadastrados (tanto os ativos quanto os inativos);
+- [x] Visualização detalhada dos equipamentos disponíveis no raio de ação do App;
+- [x] Filtros de busca de equipamentos (baseado no seu tipo);
+- [x] Cadastro de usuários, incluindo foto;
+- [x] Liberação de usuários mediante processo de autenticação;
+- [x] Recuperação de senha por meio de código (6 dígitos);
+- [x] Criptografia de senhas;
+- [x] Busca de equipamentos cadastrados (raio de 10km) de acordo com posição geográfica do App;
+- [ ] Sincronização de dados online em até 30 segundos após uso offline da aplicação;
 
 * Requisitos não funcionais
   ---
-- [x] React;
-- [x] NodeJS;
-
+- [x] Aplicação de dois fatores para autenticação em cada acesso (A2F);
+- [x] Implementação de persistência poliglota;
+- [ ] Condições de iluminação de tela adaptáveis à necessidade do usuário;
+- [ ] Segurança das informações em caso de perda do dispositivo móvel;
+- [x] Validação dos dados inseridos na aplicação (equipamentos e usuários);
+- [ ] Banco de dados mobile para armazenamento dos dados atualizados dos equipamentos durante estado offline do App;
 <br/>
 
 ## Backlog do produto
@@ -30,41 +40,43 @@
 
 <H1>Resultado Final </H1>
 
+<h2> 💻 Entregas</h2> 
+
 <h4> Entrega da Sprint 1 </h4>
 <p align="center"> 
-
-https://user-images.githubusercontent.com/86448876/229383850-07c43960-d344-4bc1-937e-2391f1a4f639.mp4
-
+    
+- A apresentação relativa à entrega da 1ª Sprint, feita via YouTube, pode ser acessada por este [link](https://www.youtube.com/watch?v=yIUAITkMCFo).
 
 </p>
 
 <h4> Entrega da Sprint 2 </h4>
-<p align="center"> 
 
-https://user-images.githubusercontent.com/86115352/233875755-5246a1ff-8b22-466d-9b65-061e43662dbd.mp4
+- Cadastro de usuário:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Cadastro_Usu%C3%A1rio.gif)
 
+- Login e operação:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login_Opera%C3%A7%C3%A3o.gif)
 
+- Redefinição de senha (neste caso já havia sido feito o disparo do e-mail para gerar o token):
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Redefinir_Senha.gif)
 
-https://user-images.githubusercontent.com/86115352/233876936-91b7e7fe-1404-4cfc-a987-a5cbba259e0d.mp4
-
-
-
-https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-a84d-9995c23f0cf9.mp4
-
-</p>
 <h4> Entrega da Sprint 3 </h4>
-<p align="center"> 
 
-https://github.com/peonia-api/API_4_Semestre/assets/86448876/52bd5e2f-9586-40a0-b2df-8b6c3db24b9a
- 
-</p>
+- Login do usuário Admin e página para gestão de cadastro de usuários:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login-do-Admin-e-aprovação-de-cadastros.gif)
 
-<h4> Entrega da Sprint 4 </h4>
+- Carrossel de Imagens:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Carrossel-de-Imagens.gif)
 
-https://github.com/peonia-api/API_4_Semestre/assets/86115352/90962519-6285-4790-8d80-379a15f303a5
+- Novo sistema de listagem de equipamentos e filtros (ativos, desativados e 10km):
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Nova-Listagem-Equipamentos.gif)
 
-https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-bd0f-d16a869c4a41
-    
+- Novos elementos de mapa e listagem de equipamentos:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Novos-Elementos-de-Mapa-e-Listagem-de-Equipamentos.gif)
+
+- Alteração de cor e estilização no Meu Perfil:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Alteração-de-Cor-e-Estilo.gif)
+  
 <br>
 
     
@@ -78,18 +90,21 @@ https://github.com/peonia-api/API_4_Semestre/assets/86115352/c558bbaf-6f40-47b3-
 
 - [HTML5 & CSS3](https://www.w3schools.com/): Linguagens de marcação
 - [TypeScript](https://www.typescriptlang.org/): Linguagem de programação
+- [Python](https://www.python.org/doc/): Linguagem de programação
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Roteamento de URL e renderização de página
 - [Git](https://git-scm.com): Versionamento
 - [GitHub](https://github.com/): Armazenamento de código
-- [Teams](https://teams.microsoft.com): Comunicação
-- [Figma](https://www.figma.com): Prototipagem
+- [Teams](https://teams.microsoft.com): Comunicação interna do grupo
+- [Slack](https://slack.com/intl/pt-br): Comunicação com o cliente
 - [NodeJS](https://nodejs.org/): Runtime
-- [ReactJS](https://pt-br.reactjs.org/): Framework
+- [React Native](https://reactnative.dev/docs/getting-started): Framework
 - [TypeORM](https://typeorm.io/): Framework
-- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento
-- [PostgreSQL](https://www.postgresql.org/): Banco de dados
-- [EmailJS](https://www.emailjs.com/): Observer e redefinição de senha
-- [Nodemailer](https://www.npmjs.com/package/nodemailer): Observer e redefinição de senha
-- [Google Cloud Platform](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-p-dr-1605194-LUAC0014411&utm_content=text-ad-none-any-DEV_c-CRE_512285710746-ADGP_Hybrid%20%7C%20BKWS%20-%20PHR%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251476-kwd-295915745166&utm_term=KW_gcp-ST_GCP&gclid=EAIaIQobChMI9bqWjJOq_wIVtyKtBh04WQpvEAAYASAAEgLSfvD_BwE&gclsrc=aw.ds&hl=pt-br): Deployment
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e Gestão
+- [API Expo Geolocation](https://docs.expo.dev/versions/latest/sdk/location/): API de Geolocalização
+- [Docker](https://docs.docker.com): Microserviços relativos à integração Front End e Back End;
+- [Azure](https://learn.microsoft.com/en-us/azure/cloud-services/): Cloud usada para hospedar bancos de dados;
+- [MongoDB](https://www.mongodb.com/docs/): Banco de dados NoSQL
+- [PostgresSQL](https://www.postgresql.org/docs/): Banco de dados SQL
 
 </br>
 
