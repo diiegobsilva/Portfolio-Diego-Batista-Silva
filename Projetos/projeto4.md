@@ -114,14 +114,15 @@
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Tela de Listagem de Ativos:</strong> Desenvolvi a interface para visualização e interação eficiente com os ativos cadastrados.</li>
-  <li><strong>Tela de Detalhes dos Ativos:</strong> Criei uma interface detalhada para fornecer informações abrangentes sobre cada ativo no sistema.</li>
-  <li><strong>Tela de Cadastro de Ativos:</strong> Implementei a interface que permite aos usuários adicionar novos ativos de maneira intuitiva e eficaz.</li>
-  <li><strong>Componente Navbar:</strong> Construí a barra de navegação para garantir uma transição suave entre as diferentes seções do aplicativo.</li>
-  <li><strong>Integração com o Front-end (Telas):</strong> Assegurei a integração eficiente entre o Front-end e o Back-end para uma experiência de usuário coesa em todas as telas.</li>
-  <li><strong>Tela - Redefinição de Senha:</strong> Desenvolvi a interface para permitir aos usuários redefinir suas senhas de maneira segura.</li>
-  <li><strong>Implementação de Câmera para Foto:</strong> Integrei a funcionalidade de câmera, possibilitando aos usuários capturar e associar fotos aos ativos no sistema.</li>
+  <li><strong>Tela de Listagem de Ativos:</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Tela de Detalhes dos Ativos:</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Tela de Cadastro de Ativos:</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Componente Navbar:</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Integração com o Front-end (Telas):</strong> Nível de Proficiência: Com ajuda</li>
+  <li><strong>Tela - Redefinição de Senha:</strong>Nível de Proficiência: Autônomo </li>
+  <li><strong>Implementação de Câmera para Foto:</strong> Nível de Proficiência: Com ajuda</li>
 </ul>
+
 
 <h3>Soft Skills</h3>
 <ul>
