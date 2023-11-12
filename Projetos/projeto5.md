@@ -1,22 +1,24 @@
 <div align="center">
-  <H1>Equipe Amadeus 2021-2</H1>   <H2>Visão do Projeto</H2>
+<h1 align="center"> EQUIPE PEÔNIA </br> APRENDIZAGEM POR PROJETOS INTEGRADOS 4º SEMESTRE ADS - 2023 </h1>  <H2>Visão do Projeto</H2>
 </div>
-<p> Projeto tem como finalidade eliminar possíveis perdas de projetos acadêmicos da Fatec de São José dos Campos. A instituição adotou o Aprendizado por Projetos Integrados, que é obrigatório em todos os cursos e turmas, levando várias equipes a salvar esses projetos em suas contas pessoais do GitHub. Diante dessa situação, nossa proposta é clonar e fazer upload desses projetos em uma conta oficial da FatecSJC, além de desenvolver um site utilizando HTML e CSS para também hospedar os projetos. Essa abordagem garantirá a preservação dos trabalhos, facilitando o acesso e a visualização por parte de todos os envolvidos.</p>
+<p> O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.</p>
 
 * Requistos funcionais
    ---
-   - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
-   - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
-   - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
-   - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
-   - [X] Site para a exposição dos projetos.
+- [x] Cadastro de grupo de usuários;
+- [x] Permissão por grupo e por usuário;
+- [x] Distinção de usuários por times;
+- [x] Fila de chamados para cada time;
+- [x] Configuração e personalização de formulário de chamados;
+- [x] Árvore de Decisão para escalonamento de chamados;
+- [x] Cadastro de soluções para problemas conhecidos;
+- [x] Formulário de abertura de chamado com indicação de interessados;
 
 
 * Requisitos não funcionais
   ---
-  - [X] Manual de instalação.
-  - [X] Organização do github.
+- [x] React;
+- [x] NodeJS;
 
 <br/>
 
