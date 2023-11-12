@@ -108,15 +108,22 @@
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, minha atribuição abrangeu a criação do Histórico dos Chamados, a implementação do CRUD para usuários, a gestão do Comitê de Aprovação, integração entre o front-end e back-end, além da resolução de bugs.</p>
+<p>No processo de construção do projeto,  concentrei-me na interface do usuário e integração com o Back-end. Desenvolvi telas-chave, incluindo listagem e detalhes de ativos, cadastro, e redefinição de senha. Implementei componentes como o Navbar e o Swal para ativação/desativação. Integrei a câmera para fotos, adicionei alerta de logout e fiz ajustes em várias telas. Minhas contribuições foram cruciais para garantir uma aplicação robusta e de alta qualidade.</p>
+
+
 
 <h3>Hard Skills</h3>
 <ul>
-  <li><strong>Criação do Histórico dos Chamados</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Implementação do CRUD para Usuários</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Gestão do Comitê de Aprovação</strong> Nível de Proficiência: Autônomo com pouca ajuda</li>
-  <li><strong>Integração entre o Front-end e Back-end</strong> Nível de Proficiência: Com ajuda</li>
-  <li><strong>Resolução de Bugs</strong> Nível de Proficiência: Com ajuda</li>
+  <li><strong>Tela de Listagem de Ativos:</strong> Desenvolvi a interface para visualização e interação eficiente com os ativos cadastrados.</li>
+  <li><strong>Tela de Detalhes dos Ativos:</strong> Criei uma interface detalhada para fornecer informações abrangentes sobre cada ativo no sistema.</li>
+  <li><strong>Tela de Cadastro de Ativos:</strong> Implementei a interface que permite aos usuários adicionar novos ativos de maneira intuitiva e eficaz.</li>
+  <li><strong>Componente Swal (Ativar e Desativar):</strong> Desenvolvi um componente personalizado usando a biblioteca Swal para gerenciar a ativação e desativação de elementos na aplicação.</li>
+  <li><strong>Componente Navbar:</strong> Construí a barra de navegação para garantir uma transição suave entre as diferentes seções do aplicativo.</li>
+  <li><strong>Integração com o Front-end (Telas):</strong> Assegurei a integração eficiente entre o Front-end e o Back-end para uma experiência de usuário coesa em todas as telas.</li>
+  <li><strong>Tela - Redefinição de Senha:</strong> Desenvolvi a interface para permitir aos usuários redefinir suas senhas de maneira segura.</li>
+  <li><strong>Implementação de Câmera para Foto:</strong> Integrei a funcionalidade de câmera, possibilitando aos usuários capturar e associar fotos aos ativos no sistema.</li>
+  <li><strong>Implementação de Alerta - Logout:</strong> Adicionei um alerta personalizado para notificar os usuários de forma clara antes de efetuarem o logout.</li>
+  <li><strong>Ajustes em Telas:</strong> Realizei ajustes em várias telas para otimizar o layout e a usabilidade com base nos feedbacks recebidos.</li>
 </ul>
 
 <h3>Soft Skills</h3>
