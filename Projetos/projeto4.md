@@ -123,9 +123,6 @@
   <li><strong>Implementação de Câmera para Foto:</strong> Nível de Proficiência: Com ajuda</li>
 </ul>
 
-
-<h3>Soft Skills</h3>
-
 <h3>Soft Skills</h3>
 <ul>
   <li>
