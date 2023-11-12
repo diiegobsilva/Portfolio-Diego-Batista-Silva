@@ -34,12 +34,10 @@
 
 ## Backlog do produto
 
-| Sprint | Entrega | Status | Relatório |
-|:-----:|:----------:|:---------:|:---------:|
-| 01 | 24/09/2023 |	:heavy_check_mark: | [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint1.MD) |
-| 02 | 15/10/2023 |	:heavy_check_mark: | [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint2.MD) |
-| 03 | 05/11/2023 |	:heavy_check_mark: | [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint3.MD) |
-| 04 | 26/11/2023 |	:heavy_check_mark: | [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint3.MD) |
+![image](https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%201ª%20Sprint.png)
+![image](https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20priorizado%202ª%20Sprint.png)
+![image](https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%203ª%20Sprint.png)
+![image](https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%203ª%20Sprint.png)
 
 <br/>
 
