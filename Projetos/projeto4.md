@@ -117,13 +117,10 @@
   <li><strong>Tela de Listagem de Ativos:</strong> Desenvolvi a interface para visualização e interação eficiente com os ativos cadastrados.</li>
   <li><strong>Tela de Detalhes dos Ativos:</strong> Criei uma interface detalhada para fornecer informações abrangentes sobre cada ativo no sistema.</li>
   <li><strong>Tela de Cadastro de Ativos:</strong> Implementei a interface que permite aos usuários adicionar novos ativos de maneira intuitiva e eficaz.</li>
-  <li><strong>Componente Swal (Ativar e Desativar):</strong> Desenvolvi um componente personalizado usando a biblioteca Swal para gerenciar a ativação e desativação de elementos na aplicação.</li>
   <li><strong>Componente Navbar:</strong> Construí a barra de navegação para garantir uma transição suave entre as diferentes seções do aplicativo.</li>
   <li><strong>Integração com o Front-end (Telas):</strong> Assegurei a integração eficiente entre o Front-end e o Back-end para uma experiência de usuário coesa em todas as telas.</li>
   <li><strong>Tela - Redefinição de Senha:</strong> Desenvolvi a interface para permitir aos usuários redefinir suas senhas de maneira segura.</li>
   <li><strong>Implementação de Câmera para Foto:</strong> Integrei a funcionalidade de câmera, possibilitando aos usuários capturar e associar fotos aos ativos no sistema.</li>
-  <li><strong>Implementação de Alerta - Logout:</strong> Adicionei um alerta personalizado para notificar os usuários de forma clara antes de efetuarem o logout.</li>
-  <li><strong>Ajustes em Telas:</strong> Realizei ajustes em várias telas para otimizar o layout e a usabilidade com base nos feedbacks recebidos.</li>
 </ul>
 
 <h3>Soft Skills</h3>
