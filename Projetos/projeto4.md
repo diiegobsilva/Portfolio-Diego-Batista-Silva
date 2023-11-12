@@ -40,8 +40,6 @@
 
 <H1>Resultado Final </H1>
 
-<h2> 💻 Entregas</h2> 
-
 <h4> Entrega da Sprint 1 </h4>
 <p align="center"> 
     
@@ -78,12 +76,10 @@
 ![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Alteração-de-Cor-e-Estilo.gif)
   
 <br>
-
-    
 <br>
 
 ### Link do Github                                                
-| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/peonia-api/API_4_Semestre) |
+| <img src="../img/equipe1.png" width="50" height="50"> | [Link](https://github.com/peonia-api/API_5_Semestre) |
 |:---:|:---:|
 
 ## Tecnologias Utilizadas  
