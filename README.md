@@ -32,6 +32,6 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 | [3º Semestre - 2022/2 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto3.md) | Projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. |
 | [4º Semestre - 2023/1 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto5.md) | Projeto tem como finalidade desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. |
 | [5º Semestre - 2023/2 ](https://github.com/diiegobsilva/Portifolio-Diego-Batista-Silva/blob/main/Projetos/projeto4.md) | Projeto tem como finalidade o desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. |
-
+| [6º Semestre - 2024/1 ](https://github.com/diiegobsilva/Portfolio-Diego-Batista-Silva/blob/main/Projetos/projeto6.md) | O projeto consiste em desenvolver um sistema automatizado para monitorar e contabilizar o número de pessoas que entram e saem das Red Zones em indústrias petrolíferas e embarcações de exploração de petróleo. |
 
 
