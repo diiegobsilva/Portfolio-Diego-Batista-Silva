@@ -5,7 +5,7 @@
 ## Introdução
 |                                               |                                           |
 | -------------------------------------------------- | ----------------------------------------------- |
-| Estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente ocupo a posição de estagiário na empresa Jimi Iot, desempenhando as funções de Analista e Suporte de TI. Minha paixão pela tecnologia não apenas me motiva, mas também impulsiona minha busca incessante por novos desafios. | ![Imagem](./img/foto.png) |
+| Estudante do 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente ocupo a posição de Desenvolvedor de Software pela empresa SONDA IT. Minha paixão pela tecnologia não apenas me motiva, mas também impulsiona minha busca incessante por novos desafios. | ![Imagem](./img/foto.png) |
 </br>
 <h2>Principais Tecnologias</h2>
 
