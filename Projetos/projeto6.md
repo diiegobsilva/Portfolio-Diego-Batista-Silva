@@ -125,29 +125,37 @@ Para acessar o guia de instalação e acesso ao sistema, basta clicar [aqui](htt
 </br>
 
 <H1>Contribuições pessoais</H1>
-<p>No processo de construção do projeto, minha atribuição abrangeu a criação do Histórico dos Chamados, a implementação do CRUD para usuários, a gestão do Comitê de Aprovação, integração entre o front-end e back-end, além da resolução de bugs.</p>
+<p>No processo de construção do projeto de monitoramento e contabilização das Red Zones, minha atribuição abrangeu a criação do front-end da tela principal, a conexão entre front-end e back-end, a interação da tela de login, a criação da tela de listagem de usuários, a inclusão de indicadores no painel, a implementação de permissões para diferentes tipos de usuários, a funcionalidade de delete e put das telas de red zone, a conexão com o back-end das telas de área, a refatoração das rotas e a exibição de todas as red zones.</p>
 
 <h3>Hard Skills</h3>
 
- <li><strong>Criação do Histórico dos Chamados</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Implementação do CRUD para Usuários</strong> Nível de Proficiência: Autônomo </li>
-  <li><strong>Gestão do Comitê de Aprovação</strong> Nível de Proficiência: Autônomo com pouca ajuda</li>
-  <li><strong>Integração entre o Front-end e Back-end</strong> Nível de Proficiência: Com ajuda</li>
-  <li><strong>Resolução de Bugs</strong> Nível de Proficiência: Com ajuda</li>
+ <li><strong>Criação do front-end da tela principal </strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Conexão entre front-end e back-end</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Interação da tela de login</strong>  Nível de Proficiência: Autônomo </li>
+  <li><strong>Inclusão de indicadores no painel</strong>  Nível de Proficiência: Autônomo </li>
+  <li><strong>Criação da tela de listagem de usuários</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Permissões para diferentes tipos de usuários</strong> Nível de Proficiência: Autônomo </li>
+  <li><strong>Delete e Put das telas de red zone</strong> Nível de Proficiência: Autônomo </li>  
+  <li><strong>Conexão com o back-end das telas de área</strong> Nível de Proficiência: Autônomo </li> 
+  <li><strong>Refatoração das rotas</strong> Nível de Proficiência: Autônomo </li> 
+  <li><strong>Exibição de todas as red zones</strong> Nível de Proficiência: Autônomo </li> 
 
 <h3>Soft Skills</h3>
 <ul>
   <li>
-    <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Isso inclui ouvir ativamente e compreender os outros.
+    <strong>Comunicação:</strong> Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Participei de reuniões regulares para alinhar as atividades do projeto e garantir que todos os membros da equipe estivessem na mesma página.
   </li>
   <li>
-    <strong>Trabalho em Equipe:</strong> Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns.
+    <strong>Trabalho em Equipe:</strong>Capacidade de colaborar com colegas, compartilhar responsabilidades e contribuir para objetivos comuns. Colaborei ativamente com desenvolvedores de back-end e outros membros da equipe para integrar funcionalidades e resolver problemas.
+
+
   </li>
   <li>
-    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes.
+    <strong>Empatia:</strong> Capacidade de compreender e considerar os sentimentos e perspectivas dos outros, desenvolvendo relações interpessoais mais fortes. Fui receptivo às sugestões e preocupações dos colegas, buscando soluções que atendem às necessidades de todos.
+
   </li>
   <li>
-    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora.
+    <strong>Criatividade:</strong> Capacidade de gerar novas ideias e soluções, pensar fora da caixa e abordar problemas de maneira inovadora. Contribuí com ideias inovadoras para a interface do usuário e a apresentação de indicadores no dashboard, melhorando a usabilidade e a experiência do usuário.
   </li>
 </ul>
 
